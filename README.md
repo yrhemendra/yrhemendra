@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yrhemendra
 - 👀 I’m interested in Cyber Security Field
-- 🌱 I’m currently learning Coding in C
+- 🌱 I’m currently learning Ehical Hacking
 - 📫 Reach me via my github prof 
 
 <!---
