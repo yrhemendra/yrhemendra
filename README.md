@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yrhemendra
-- 👀 I’m interested in Cyber Security Field
+- 👀 I’m interested in Cyber Security & Cloud Computing Field
 - 🌱 I’m currently learning Ethical Hacking
-- 📫 Reach me via my github prof 
+- 📫 Reach me via my LinkedIn prof 
 
 <!---
 yrhemendra/yrhemendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
